@@ -1,0 +1,221 @@
+Event type,Category
+syscall_entry_clock_nanosleep,Synchronization and Timing
+syscall_exit_clock_nanosleep,Synchronization and Timing
+syscall_entry_futex,Synchronization and Timing
+syscall_exit_futex,Synchronization and Timing
+syscall_exit_mmap,Memory Management
+syscall_entry_mmap,Memory Management
+syscall_exit_munmap,Memory Management
+syscall_entry_munmap,Memory Management
+syscall_entry_msync,Memory Management
+syscall_exit_msync,Memory Management
+syscall_entry_epoll_wait,Unknown
+syscall_exit_epoll_wait,Unknown
+syscall_exit_newstat,I/O (File and Disk Operations)
+syscall_entry_newstat,I/O (File and Disk Operations)
+syscall_entry_newfstat,I/O (File and Disk Operations)
+syscall_exit_newfstat,I/O (File and Disk Operations)
+syscall_entry_ioctl,I/O (File and Disk Operations)
+syscall_exit_ioctl,I/O (File and Disk Operations)
+syscall_entry_write,I/O (File and Disk Operations)
+syscall_exit_write,I/O (File and Disk Operations)
+syscall_exit_close,I/O (File and Disk Operations)
+syscall_entry_close,I/O (File and Disk Operations)
+syscall_exit_openat,I/O (File and Disk Operations)
+syscall_entry_openat,I/O (File and Disk Operations)
+syscall_entry_read,I/O (File and Disk Operations)
+syscall_exit_read,I/O (File and Disk Operations)
+syscall_exit_pread64,I/O (File and Disk Operations)
+syscall_entry_pread64,I/O (File and Disk Operations)
+syscall_exit_newlstat,I/O (File and Disk Operations)
+syscall_entry_newlstat,I/O (File and Disk Operations)
+syscall_entry_unlink,I/O (File and Disk Operations)
+syscall_exit_unlink,I/O (File and Disk Operations)
+syscall_exit_gettid,CPU and Process Management
+syscall_entry_gettid,CPU and Process Management
+syscall_exit_access,I/O (File and Disk Operations)
+syscall_entry_access,I/O (File and Disk Operations)
+syscall_exit_mprotect,Memory Management
+syscall_entry_mprotect,Memory Management
+syscall_exit_getpid,CPU and Process Management
+syscall_entry_getpid,CPU and Process Management
+syscall_entry_splice,I/O (File and Disk Operations)
+syscall_exit_splice,I/O (File and Disk Operations)
+syscall_exit_fcntl,I/O (File and Disk Operations)
+syscall_entry_fcntl,I/O (File and Disk Operations)
+syscall_entry_newfstatat,I/O (File and Disk Operations)
+syscall_exit_newfstatat,I/O (File and Disk Operations)
+syscall_entry_getdents64,I/O (File and Disk Operations)
+syscall_exit_getdents64,I/O (File and Disk Operations)
+syscall_entry_sync_file_range,Unknown
+syscall_exit_sync_file_range,Unknown
+syscall_entry_madvise,Memory Management
+syscall_exit_madvise,Memory Management
+syscall_entry_sched_yield,Unknown
+syscall_exit_sched_yield,Unknown
+syscall_entry_fdatasync,I/O (File and Disk Operations)
+syscall_exit_fdatasync,I/O (File and Disk Operations)
+syscall_entry_fadvise64,I/O (File and Disk Operations)
+syscall_exit_fadvise64,I/O (File and Disk Operations)
+syscall_exit_dup,I/O (File and Disk Operations)
+syscall_entry_dup,I/O (File and Disk Operations)
+syscall_entry_fsync,I/O (File and Disk Operations)
+syscall_exit_fsync,I/O (File and Disk Operations)
+syscall_entry_pwrite64,I/O (File and Disk Operations)
+syscall_exit_pwrite64,I/O (File and Disk Operations)
+syscall_exit_setsockopt,Networking (Socket and Communication)
+syscall_entry_setsockopt,Networking (Socket and Communication)
+syscall_exit_rt_sigtimedwait,Unknown
+syscall_entry_rt_sigtimedwait,Unknown
+syscall_exit_recvfrom,Networking (Socket and Communication)
+syscall_entry_recvfrom,Networking (Socket and Communication)
+syscall_exit_readlink,I/O (File and Disk Operations)
+syscall_entry_readlink,I/O (File and Disk Operations)
+syscall_exit_getrusage,CPU and Process Management
+syscall_entry_getrusage,CPU and Process Management
+syscall_exit_epoll_ctl,Unknown
+syscall_entry_epoll_ctl,Unknown
+syscall_exit_lseek,I/O (File and Disk Operations)
+syscall_entry_lseek,I/O (File and Disk Operations)
+syscall_entry_getsockopt,Networking (Socket and Communication)
+syscall_exit_getsockopt,Networking (Socket and Communication)
+syscall_entry_sched_getaffinity,Unknown
+syscall_exit_sched_getaffinity,Unknown
+syscall_entry_unknown,Unknown
+syscall_exit_unknown,Unknown
+syscall_exit_rt_sigprocmask,Unknown
+syscall_entry_rt_sigprocmask,Unknown
+syscall_entry_writev,I/O (File and Disk Operations)
+syscall_exit_writev,I/O (File and Disk Operations)
+syscall_entry_poll,Event Polling and Notification
+syscall_exit_poll,Event Polling and Notification
+syscall_exit_getsockname,Networking (Socket and Communication)
+syscall_entry_getsockname,Networking (Socket and Communication)
+syscall_entry_socket,Networking (Socket and Communication)
+syscall_exit_socket,Networking (Socket and Communication)
+syscall_exit_sysinfo,System Information
+syscall_entry_sysinfo,System Information
+syscall_exit_nanosleep,Synchronization and Timing
+syscall_entry_nanosleep,Synchronization and Timing
+syscall_exit_connect,Networking (Socket and Communication)
+syscall_entry_connect,Networking (Socket and Communication)
+syscall_entry_prlimit64,CPU and Process Management
+syscall_exit_prlimit64,CPU and Process Management
+syscall_exit_rename,I/O (File and Disk Operations)
+syscall_entry_rename,I/O (File and Disk Operations)
+syscall_entry_statfs,I/O (File and Disk Operations)
+syscall_exit_statfs,I/O (File and Disk Operations)
+syscall_entry_recvmsg,Networking (Socket and Communication)
+syscall_exit_recvmsg,Networking (Socket and Communication)
+syscall_exit_shutdown,Networking (Socket and Communication)
+syscall_entry_shutdown,Networking (Socket and Communication)
+syscall_exit_accept,Networking (Socket and Communication)
+syscall_entry_accept,Networking (Socket and Communication)
+syscall_exit_pselect6,Event Polling and Notification
+syscall_entry_pselect6,Event Polling and Notification
+syscall_exit_rt_sigaction,Unknown
+syscall_entry_rt_sigaction,Unknown
+syscall_entry_set_robust_list,Unknown
+syscall_exit_set_robust_list,Unknown
+syscall_entry_sync,I/O (File and Disk Operations)
+syscall_exit_sync,I/O (File and Disk Operations)
+syscall_exit_timerfd_settime,Unknown
+syscall_entry_timerfd_settime,Unknown
+syscall_exit_clone,CPU and Process Management
+syscall_entry_kill,CPU and Process Management
+syscall_exit_kill,CPU and Process Management
+syscall_entry_prctl,CPU and Process Management
+syscall_exit_prctl,CPU and Process Management
+syscall_entry_sendmsg,Networking (Socket and Communication)
+syscall_exit_sendmsg,Networking (Socket and Communication)
+syscall_entry_exit,CPU and Process Management
+syscall_exit_getuid,CPU and Process Management
+syscall_entry_getuid,CPU and Process Management
+syscall_entry_geteuid,CPU and Process Management
+syscall_exit_geteuid,CPU and Process Management
+syscall_exit_wait4,CPU and Process Management
+syscall_entry_wait4,CPU and Process Management
+syscall_exit_getegid,CPU and Process Management
+syscall_entry_getegid,CPU and Process Management
+syscall_entry_getgid,CPU and Process Management
+syscall_exit_getgid,CPU and Process Management
+syscall_entry_clone,CPU and Process Management
+syscall_entry_sendto,Networking (Socket and Communication)
+syscall_exit_sendto,Networking (Socket and Communication)
+syscall_exit_getppid,CPU and Process Management
+syscall_entry_getppid,CPU and Process Management
+syscall_entry_readlinkat,I/O (File and Disk Operations)
+syscall_exit_readlinkat,I/O (File and Disk Operations)
+syscall_exit_alarm,Timers
+syscall_entry_alarm,Timers
+syscall_exit_brk,Memory Management
+syscall_entry_brk,Memory Management
+syscall_entry_exit_group,Unknown
+syscall_entry_ftruncate,I/O (File and Disk Operations)
+syscall_exit_ftruncate,I/O (File and Disk Operations)
+syscall_entry_setpgid,CPU and Process Management
+syscall_exit_setpgid,CPU and Process Management
+syscall_exit_sendfile64,I/O (File and Disk Operations)
+syscall_entry_sendfile64,I/O (File and Disk Operations)
+syscall_entry_epoll_pwait,Unknown
+syscall_exit_epoll_pwait,Unknown
+syscall_entry_bind,Networking (Socket and Communication)
+syscall_exit_bind,Networking (Socket and Communication)
+syscall_entry_ppoll,Event Polling and Notification
+syscall_exit_ppoll,Event Polling and Notification
+syscall_exit_sendmmsg,Networking (Socket and Communication)
+syscall_entry_sendmmsg,Networking (Socket and Communication)
+syscall_entry_getpeername,Networking (Socket and Communication)
+syscall_exit_getpeername,Networking (Socket and Communication)
+syscall_entry_flock,I/O (File and Disk Operations)
+syscall_exit_flock,I/O (File and Disk Operations)
+syscall_exit_execve,CPU and Process Management
+syscall_entry_execve,CPU and Process Management
+syscall_exit_set_tid_address,Unknown
+syscall_entry_set_tid_address,Unknown
+syscall_exit_accept4,Networking (Socket and Communication)
+syscall_entry_accept4,Networking (Socket and Communication)
+syscall_exit_umask,I/O (File and Disk Operations)
+syscall_entry_umask,I/O (File and Disk Operations)
+syscall_entry_times,Timers
+syscall_exit_times,Timers
+syscall_exit_fstatfs,I/O (File and Disk Operations)
+syscall_entry_fstatfs,I/O (File and Disk Operations)
+syscall_entry_dup2,I/O (File and Disk Operations)
+syscall_exit_dup2,I/O (File and Disk Operations)
+syscall_exit_pipe2,I/O (File and Disk Operations)
+syscall_entry_pipe2,I/O (File and Disk Operations)
+syscall_entry_getcwd,I/O (File and Disk Operations)
+syscall_exit_getcwd,I/O (File and Disk Operations)
+syscall_entry_fallocate,I/O (File and Disk Operations)
+syscall_exit_fallocate,I/O (File and Disk Operations)
+syscall_entry_mkdir,I/O (File and Disk Operations)
+syscall_exit_mkdir,I/O (File and Disk Operations)
+syscall_entry_rmdir,I/O (File and Disk Operations)
+syscall_exit_rmdir,I/O (File and Disk Operations)
+syscall_entry_sigaltstack,Signal Handling
+syscall_exit_sigaltstack,Signal Handling
+syscall_entry_newuname,System Information
+syscall_exit_newuname,System Information
+syscall_entry_mlock,Memory Management
+syscall_exit_mlock,Memory Management
+syscall_entry_chdir,I/O (File and Disk Operations)
+syscall_exit_chdir,I/O (File and Disk Operations)
+syscall_entry_utimensat,I/O (File and Disk Operations)
+syscall_exit_utimensat,I/O (File and Disk Operations)
+syscall_entry_setitimer,Timers
+syscall_exit_setitimer,Timers
+syscall_exit_setuid,CPU and Process Management
+syscall_entry_setuid,CPU and Process Management
+syscall_exit_setgid,CPU and Process Management
+syscall_entry_setgid,CPU and Process Management
+syscall_exit_setgroups,CPU and Process Management
+syscall_entry_setgroups,CPU and Process Management
+syscall_entry_getpriority,CPU and Process Management
+syscall_exit_getpriority,CPU and Process Management
+syscall_exit_setpriority,CPU and Process Management
+syscall_entry_setpriority,CPU and Process Management
+syscall_entry_clock_adjtime,Unknown
+syscall_exit_clock_adjtime,Unknown
+syscall_entry_setsid,CPU and Process Management
+syscall_exit_setsid,CPU and Process Management
