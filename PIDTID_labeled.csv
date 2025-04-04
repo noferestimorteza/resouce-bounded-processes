@@ -1,0 +1,463 @@
+,PID,TID,Category
+3,1,1,Unknown
+7,499,499,Unknown
+9,499,20885,I/O (File and Disk Operations)
+14,499,20886,I/O (File and Disk Operations)
+19,499,20938,I/O (File and Disk Operations)
+24,499,20998,I/O (File and Disk Operations)
+29,499,21124,I/O (File and Disk Operations)
+33,542,542,Synchronization and Timing
+34,542,553,Event Polling and Notification
+36,542,554,Synchronization and Timing
+40,549,549,Unknown
+44,757,757,Unknown
+48,795,795,Unknown
+52,797,797,Unknown
+55,808,808,Synchronization and Timing
+56,809,809,Networking (Socket and Communication)
+57,812,955,Synchronization and Timing
+58,812,967,Synchronization and Timing
+59,812,968,Synchronization and Timing
+61,812,969,Synchronization and Timing
+63,812,971,Synchronization and Timing
+64,812,973,Synchronization and Timing
+65,816,816,Event Polling and Notification
+72,817,817,Unknown
+74,817,938,Synchronization and Timing
+76,817,939,Synchronization and Timing
+78,817,940,Synchronization and Timing
+80,817,941,Synchronization and Timing
+84,817,1191,Synchronization and Timing
+89,817,1192,Synchronization and Timing
+94,817,1193,Synchronization and Timing
+99,817,1194,Synchronization and Timing
+101,820,820,Event Polling and Notification
+103,820,867,Event Polling and Notification
+106,820,868,I/O (File and Disk Operations)
+109,820,869,Synchronization and Timing
+110,823,947,Synchronization and Timing
+111,823,949,Synchronization and Timing
+113,823,960,Synchronization and Timing
+115,823,961,Synchronization and Timing
+118,823,962,Synchronization and Timing
+121,823,981,Synchronization and Timing
+123,823,982,Synchronization and Timing
+125,823,1013,Synchronization and Timing
+126,823,1041,Synchronization and Timing
+129,823,1042,Synchronization and Timing
+131,823,1043,Synchronization and Timing
+135,823,1049,Synchronization and Timing
+137,823,1081,Synchronization and Timing
+140,823,1082,Synchronization and Timing
+144,823,1084,Synchronization and Timing
+148,823,1089,Synchronization and Timing
+150,823,1090,Unknown
+154,827,827,Unknown
+155,829,829,Event Polling and Notification
+161,829,20887,Synchronization and Timing
+167,829,20942,Synchronization and Timing
+173,829,21006,Synchronization and Timing
+176,1133,1135,Synchronization and Timing
+177,1133,1138,Synchronization and Timing
+178,1133,1139,Synchronization and Timing
+179,1133,1140,Synchronization and Timing
+181,1133,1141,Synchronization and Timing
+182,1133,1142,Synchronization and Timing
+183,1133,1143,Synchronization and Timing
+184,1133,1144,Synchronization and Timing
+185,1133,1145,Synchronization and Timing
+187,1133,1146,Synchronization and Timing
+189,1133,1148,Synchronization and Timing
+191,1133,1149,Synchronization and Timing
+194,1133,1150,Synchronization and Timing
+198,1133,1151,Synchronization and Timing
+200,1133,1154,Synchronization and Timing
+201,1133,1155,Synchronization and Timing
+205,1133,1156,Synchronization and Timing
+210,1133,1157,Synchronization and Timing
+212,1133,1158,Synchronization and Timing
+213,1133,1162,Synchronization and Timing
+215,1133,1196,Synchronization and Timing
+218,1133,1197,Synchronization and Timing
+220,1133,1224,Synchronization and Timing
+222,1133,1226,Synchronization and Timing
+227,1133,1230,Unknown
+232,1133,1231,Unknown
+237,1133,1255,Unknown
+242,1133,1256,Unknown
+247,1133,1257,Unknown
+252,1133,1258,Unknown
+257,1133,1259,Unknown
+262,1133,1260,Unknown
+267,1133,1261,Unknown
+272,1133,1262,Unknown
+277,1133,1263,Unknown
+282,1133,1264,Unknown
+284,1133,1265,Synchronization and Timing
+287,1133,1266,Synchronization and Timing
+291,1133,1267,Synchronization and Timing
+294,1133,1275,Synchronization and Timing
+298,1133,1276,Synchronization and Timing
+300,1133,1290,Synchronization and Timing
+304,1133,1318,Synchronization and Timing
+307,1133,1319,Synchronization and Timing
+310,1133,1320,Synchronization and Timing
+313,1133,1321,Synchronization and Timing
+316,1133,1322,Synchronization and Timing
+319,1133,1323,Synchronization and Timing
+323,1133,1331,Synchronization and Timing
+327,1133,1332,Synchronization and Timing
+331,1133,1333,Synchronization and Timing
+335,1133,1334,Synchronization and Timing
+339,1133,1335,Synchronization and Timing
+343,1133,1336,Synchronization and Timing
+347,1133,1337,Synchronization and Timing
+351,1133,1338,Synchronization and Timing
+355,1133,1339,Synchronization and Timing
+359,1133,1340,Synchronization and Timing
+363,1133,1342,Synchronization and Timing
+367,1133,1345,Synchronization and Timing
+371,1133,1346,Synchronization and Timing
+375,1133,1347,Synchronization and Timing
+377,1133,1348,I/O (File and Disk Operations)
+382,1133,1349,I/O (File and Disk Operations)
+387,1133,1350,I/O (File and Disk Operations)
+394,1133,1351,Synchronization and Timing
+399,1133,1352,Synchronization and Timing
+403,1133,1353,Synchronization and Timing
+407,1133,1354,Synchronization and Timing
+410,1133,1355,Synchronization and Timing
+413,1133,1356,Synchronization and Timing
+417,1133,1357,Synchronization and Timing
+421,1133,1358,Synchronization and Timing
+423,1133,1365,I/O (File and Disk Operations)
+428,1133,1369,Synchronization and Timing
+433,1133,1370,Synchronization and Timing
+438,1133,1371,Synchronization and Timing
+443,1133,1372,Synchronization and Timing
+448,1133,1373,Synchronization and Timing
+451,1133,1374,I/O (File and Disk Operations)
+455,1133,1375,I/O (File and Disk Operations)
+458,1133,1376,I/O (File and Disk Operations)
+462,1133,1380,Synchronization and Timing
+464,1133,1390,I/O (File and Disk Operations)
+469,1133,1394,Synchronization and Timing
+471,1133,1395,Synchronization and Timing
+473,1133,1398,Synchronization and Timing
+474,1133,1399,Synchronization and Timing
+475,1133,1400,Synchronization and Timing
+478,1133,1401,Synchronization and Timing
+479,1133,1402,Synchronization and Timing
+480,1133,1403,Synchronization and Timing
+482,1133,1404,Synchronization and Timing
+483,1133,1410,Synchronization and Timing
+484,1133,1411,Synchronization and Timing
+485,1133,1414,Synchronization and Timing
+486,1133,1415,Synchronization and Timing
+487,1133,1420,Synchronization and Timing
+488,1133,1421,Synchronization and Timing
+489,1133,1603,Synchronization and Timing
+491,1133,1604,Synchronization and Timing
+493,1133,2230,Synchronization and Timing
+496,1133,2231,Synchronization and Timing
+497,1133,2324,Synchronization and Timing
+499,1133,2325,Synchronization and Timing
+502,1133,2328,Synchronization and Timing
+505,1133,2374,Synchronization and Timing
+509,1133,2375,Synchronization and Timing
+512,1133,2376,Synchronization and Timing
+516,1133,2377,Synchronization and Timing
+518,1133,2378,Synchronization and Timing
+520,1133,2379,Synchronization and Timing
+522,1133,2383,Synchronization and Timing
+525,1133,2493,Synchronization and Timing
+528,1133,2530,Synchronization and Timing
+532,1133,2570,Synchronization and Timing
+536,1133,2603,Synchronization and Timing
+538,1133,2628,Synchronization and Timing
+540,1133,2712,Synchronization and Timing
+544,1133,8679,Synchronization and Timing
+548,1133,8689,Synchronization and Timing
+551,1133,19916,Synchronization and Timing
+553,1133,20507,Synchronization and Timing
+556,1133,20665,Synchronization and Timing
+558,1133,20688,I/O (File and Disk Operations)
+563,1133,20874,I/O (File and Disk Operations)
+569,1133,20875,Synchronization and Timing
+572,1133,20876,I/O (File and Disk Operations)
+577,1133,20877,I/O (File and Disk Operations)
+582,1133,20878,I/O (File and Disk Operations)
+587,1133,20879,I/O (File and Disk Operations)
+592,1133,20880,I/O (File and Disk Operations)
+597,1133,20881,I/O (File and Disk Operations)
+604,1133,20882,Synchronization and Timing
+607,1133,20883,I/O (File and Disk Operations)
+612,1133,20884,I/O (File and Disk Operations)
+617,1133,20888,I/O (File and Disk Operations)
+622,1133,20889,I/O (File and Disk Operations)
+627,1133,20890,I/O (File and Disk Operations)
+632,1133,20891,I/O (File and Disk Operations)
+637,1133,20892,I/O (File and Disk Operations)
+642,1133,20893,I/O (File and Disk Operations)
+648,1133,20894,Synchronization and Timing
+651,1133,20895,I/O (File and Disk Operations)
+658,1133,20896,Synchronization and Timing
+661,1133,20897,I/O (File and Disk Operations)
+668,1133,20898,Synchronization and Timing
+671,1133,20899,I/O (File and Disk Operations)
+676,1133,20900,I/O (File and Disk Operations)
+681,1133,20901,I/O (File and Disk Operations)
+686,1133,20902,I/O (File and Disk Operations)
+691,1133,20903,I/O (File and Disk Operations)
+697,1133,20904,Synchronization and Timing
+700,1133,20905,I/O (File and Disk Operations)
+705,1133,20906,I/O (File and Disk Operations)
+710,1133,20907,I/O (File and Disk Operations)
+715,1133,20908,I/O (File and Disk Operations)
+720,1133,20909,I/O (File and Disk Operations)
+725,1133,20914,I/O (File and Disk Operations)
+730,1133,20915,I/O (File and Disk Operations)
+735,1133,20916,I/O (File and Disk Operations)
+740,1133,20917,I/O (File and Disk Operations)
+745,1133,20918,I/O (File and Disk Operations)
+750,1133,20920,I/O (File and Disk Operations)
+755,1133,20921,I/O (File and Disk Operations)
+760,1133,20922,I/O (File and Disk Operations)
+767,1133,20923,Synchronization and Timing
+770,1133,20924,I/O (File and Disk Operations)
+777,1133,20925,Synchronization and Timing
+780,1133,20926,I/O (File and Disk Operations)
+785,1133,20927,I/O (File and Disk Operations)
+790,1133,20928,I/O (File and Disk Operations)
+795,1133,20929,I/O (File and Disk Operations)
+802,1133,20930,Synchronization and Timing
+805,1133,20931,I/O (File and Disk Operations)
+810,1133,20932,I/O (File and Disk Operations)
+816,1133,20933,Synchronization and Timing
+819,1133,20934,I/O (File and Disk Operations)
+824,1133,20935,I/O (File and Disk Operations)
+829,1133,20936,I/O (File and Disk Operations)
+834,1133,20937,I/O (File and Disk Operations)
+839,1133,20939,I/O (File and Disk Operations)
+844,1133,20940,I/O (File and Disk Operations)
+851,1133,20941,Synchronization and Timing
+854,1133,20943,I/O (File and Disk Operations)
+859,1133,20944,I/O (File and Disk Operations)
+864,1133,20945,I/O (File and Disk Operations)
+869,1133,20946,I/O (File and Disk Operations)
+874,1133,20947,I/O (File and Disk Operations)
+879,1133,20948,I/O (File and Disk Operations)
+886,1133,20949,Synchronization and Timing
+890,1133,20950,Synchronization and Timing
+893,1133,20951,I/O (File and Disk Operations)
+898,1133,20952,I/O (File and Disk Operations)
+903,1133,20953,I/O (File and Disk Operations)
+910,1133,20954,Synchronization and Timing
+913,1133,20955,I/O (File and Disk Operations)
+918,1133,20956,I/O (File and Disk Operations)
+923,1133,20957,I/O (File and Disk Operations)
+928,1133,20958,I/O (File and Disk Operations)
+934,1133,20959,Synchronization and Timing
+939,1133,20961,Synchronization and Timing
+944,1133,20962,Synchronization and Timing
+947,1133,20963,I/O (File and Disk Operations)
+952,1133,20964,I/O (File and Disk Operations)
+957,1133,20966,I/O (File and Disk Operations)
+962,1133,20967,I/O (File and Disk Operations)
+967,1133,20968,I/O (File and Disk Operations)
+972,1133,20969,I/O (File and Disk Operations)
+977,1133,20970,I/O (File and Disk Operations)
+984,1133,20971,Synchronization and Timing
+987,1133,20972,I/O (File and Disk Operations)
+992,1133,20973,I/O (File and Disk Operations)
+997,1133,20974,I/O (File and Disk Operations)
+1002,1133,20975,I/O (File and Disk Operations)
+1007,1133,20976,I/O (File and Disk Operations)
+1014,1133,20977,Synchronization and Timing
+1017,1133,20978,I/O (File and Disk Operations)
+1024,1133,20979,Synchronization and Timing
+1027,1133,20980,I/O (File and Disk Operations)
+1032,1133,20981,I/O (File and Disk Operations)
+1037,1133,20982,I/O (File and Disk Operations)
+1044,1133,20983,Synchronization and Timing
+1047,1133,20984,I/O (File and Disk Operations)
+1052,1133,20985,I/O (File and Disk Operations)
+1057,1133,20986,I/O (File and Disk Operations)
+1062,1133,20993,I/O (File and Disk Operations)
+1069,1133,20994,Synchronization and Timing
+1073,1133,20995,Synchronization and Timing
+1076,1133,20996,I/O (File and Disk Operations)
+1081,1133,20997,I/O (File and Disk Operations)
+1086,1133,20999,I/O (File and Disk Operations)
+1091,1133,21000,I/O (File and Disk Operations)
+1098,1133,21001,Synchronization and Timing
+1101,1133,21002,I/O (File and Disk Operations)
+1106,1133,21004,I/O (File and Disk Operations)
+1111,1133,21007,I/O (File and Disk Operations)
+1116,1133,21010,I/O (File and Disk Operations)
+1121,1133,21011,I/O (File and Disk Operations)
+1126,1133,21012,I/O (File and Disk Operations)
+1131,1133,21092,I/O (File and Disk Operations)
+1137,1133,21095,Synchronization and Timing
+1142,1133,21096,Synchronization and Timing
+1145,1133,21097,I/O (File and Disk Operations)
+1150,1133,21098,I/O (File and Disk Operations)
+1155,1133,21099,I/O (File and Disk Operations)
+1160,1133,21100,I/O (File and Disk Operations)
+1166,1133,21101,Memory Management
+1170,1133,21103,I/O (File and Disk Operations)
+1177,1133,21104,Synchronization and Timing
+1181,1133,21105,Synchronization and Timing
+1184,1133,21106,I/O (File and Disk Operations)
+1189,1133,21107,I/O (File and Disk Operations)
+1194,1133,21113,I/O (File and Disk Operations)
+1199,1133,21114,I/O (File and Disk Operations)
+1204,1133,21115,I/O (File and Disk Operations)
+1211,1133,21116,Synchronization and Timing
+1214,1133,21117,I/O (File and Disk Operations)
+1219,1133,21118,I/O (File and Disk Operations)
+1224,1133,21119,I/O (File and Disk Operations)
+1231,1133,21120,Synchronization and Timing
+1234,1133,21121,I/O (File and Disk Operations)
+1239,1133,21123,I/O (File and Disk Operations)
+1244,1133,21126,I/O (File and Disk Operations)
+1249,1133,21127,I/O (File and Disk Operations)
+1254,1133,21128,I/O (File and Disk Operations)
+1259,1133,21129,I/O (File and Disk Operations)
+1264,1133,21140,I/O (File and Disk Operations)
+1269,1133,21141,I/O (File and Disk Operations)
+1274,1133,21142,I/O (File and Disk Operations)
+1279,1133,21143,I/O (File and Disk Operations)
+1284,1133,21144,I/O (File and Disk Operations)
+1289,1133,21145,I/O (File and Disk Operations)
+1294,1133,21147,I/O (File and Disk Operations)
+1300,1133,21148,Synchronization and Timing
+1303,1133,21149,I/O (File and Disk Operations)
+1308,1133,21150,I/O (File and Disk Operations)
+1315,1133,21152,Synchronization and Timing
+1318,1133,21154,I/O (File and Disk Operations)
+1323,1133,21155,I/O (File and Disk Operations)
+1328,1133,21156,I/O (File and Disk Operations)
+1333,1133,21157,I/O (File and Disk Operations)
+1338,1133,21158,I/O (File and Disk Operations)
+1343,1864,1982,Unknown
+1346,1864,1986,Unknown
+1349,1994,1999,Unknown
+1350,1994,2001,I/O (File and Disk Operations)
+1352,1994,2002,Event Polling and Notification
+1357,1994,2003,Networking (Socket and Communication)
+1358,8037,8037,Event Polling and Notification
+1359,20828,20828,Synchronization and Timing
+1361,20828,20829,Synchronization and Timing
+1364,20828,20830,Networking (Socket and Communication)
+1369,20828,21112,Networking (Socket and Communication)
+1373,20855,20855,Event Polling and Notification
+1376,20857,20857,CPU and Process Management
+1379,20872,20872,I/O (File and Disk Operations)
+1386,20873,20873,Synchronization and Timing
+1391,20910,20910,I/O (File and Disk Operations)
+1398,20911,20911,CPU and Process Management
+1406,20912,20912,CPU and Process Management
+1411,20987,20987,CPU and Process Management
+1419,20988,20988,CPU and Process Management
+1429,20989,20989,CPU and Process Management
+1436,20990,20990,CPU and Process Management
+1443,20991,20991,CPU and Process Management
+1453,20992,20992,Synchronization and Timing
+1462,21005,21005,Synchronization and Timing
+1465,21013,21013,CPU and Process Management
+1473,21014,21014,CPU and Process Management
+1486,21015,21015,Synchronization and Timing
+1493,21016,21016,Synchronization and Timing
+1500,21017,21017,Synchronization and Timing
+1507,21018,21018,Synchronization and Timing
+1512,21019,21019,I/O (File and Disk Operations)
+1515,21020,21020,I/O (File and Disk Operations)
+1518,21021,21021,I/O (File and Disk Operations)
+1522,21022,21022,I/O (File and Disk Operations)
+1525,21023,21023,I/O (File and Disk Operations)
+1529,21024,21024,I/O (File and Disk Operations)
+1532,21025,21025,I/O (File and Disk Operations)
+1537,21026,21026,I/O (File and Disk Operations)
+1540,21027,21027,I/O (File and Disk Operations)
+1544,21028,21028,I/O (File and Disk Operations)
+1548,21029,21029,I/O (File and Disk Operations)
+1551,21030,21030,I/O (File and Disk Operations)
+1555,21031,21031,I/O (File and Disk Operations)
+1558,21032,21032,I/O (File and Disk Operations)
+1562,21033,21033,I/O (File and Disk Operations)
+1566,21034,21034,Event Polling and Notification
+1570,21035,21035,I/O (File and Disk Operations)
+1575,21036,21036,Synchronization and Timing
+1578,21037,21037,Event Polling and Notification
+1582,21038,21038,Memory Management
+1587,21039,21039,Synchronization and Timing
+1590,21040,21040,I/O (File and Disk Operations)
+1594,21041,21041,Memory Management
+1598,21042,21042,I/O (File and Disk Operations)
+1602,21043,21043,I/O (File and Disk Operations)
+1606,21044,21044,I/O (File and Disk Operations)
+1610,21045,21045,I/O (File and Disk Operations)
+1614,21046,21046,I/O (File and Disk Operations)
+1617,21047,21047,I/O (File and Disk Operations)
+1621,21048,21048,I/O (File and Disk Operations)
+1625,21049,21049,I/O (File and Disk Operations)
+1630,21050,21050,Unknown
+1632,21051,21051,I/O (File and Disk Operations)
+1638,21052,21052,Unknown
+1641,21053,21053,I/O (File and Disk Operations)
+1645,21054,21054,I/O (File and Disk Operations)
+1648,21055,21055,I/O (File and Disk Operations)
+1651,21056,21056,I/O (File and Disk Operations)
+1654,21057,21057,I/O (File and Disk Operations)
+1658,21058,21058,I/O (File and Disk Operations)
+1663,21059,21059,I/O (File and Disk Operations)
+1667,21060,21060,I/O (File and Disk Operations)
+1670,21061,21061,I/O (File and Disk Operations)
+1674,21062,21062,I/O (File and Disk Operations)
+1678,21063,21063,Event Polling and Notification
+1683,21064,21064,Synchronization and Timing
+1687,21065,21065,Memory Management
+1691,21066,21066,I/O (File and Disk Operations)
+1695,21067,21067,I/O (File and Disk Operations)
+1699,21068,21068,I/O (File and Disk Operations)
+1703,21069,21069,I/O (File and Disk Operations)
+1706,21070,21070,I/O (File and Disk Operations)
+1712,21071,21071,Unknown
+1715,21072,21072,I/O (File and Disk Operations)
+1718,21074,21074,I/O (File and Disk Operations)
+1721,21075,21075,I/O (File and Disk Operations)
+1724,21076,21076,I/O (File and Disk Operations)
+1728,21077,21077,I/O (File and Disk Operations)
+1733,21078,21078,I/O (File and Disk Operations)
+1736,21079,21079,I/O (File and Disk Operations)
+1739,21080,21080,I/O (File and Disk Operations)
+1743,21081,21081,I/O (File and Disk Operations)
+1747,21082,21082,Event Polling and Notification
+1753,21083,21083,Synchronization and Timing
+1756,21084,21084,Memory Management
+1760,21085,21085,I/O (File and Disk Operations)
+1764,21086,21086,I/O (File and Disk Operations)
+1768,21087,21087,I/O (File and Disk Operations)
+1772,21088,21088,I/O (File and Disk Operations)
+1775,21089,21089,I/O (File and Disk Operations)
+1781,21090,21090,Unknown
+1784,21091,21091,I/O (File and Disk Operations)
+1791,21102,21102,Synchronization and Timing
+1796,21108,21108,I/O (File and Disk Operations)
+1806,21109,21109,Synchronization and Timing
+1813,21109,21110,Synchronization and Timing
+1818,21109,21111,Synchronization and Timing
+1826,21125,21125,Synchronization and Timing
+1829,21130,21130,CPU and Process Management
+1837,21131,21131,CPU and Process Management
+1847,21132,21132,CPU and Process Management
+1854,21133,21133,CPU and Process Management
+1861,21134,21134,CPU and Process Management
+1868,21135,21135,CPU and Process Management
+1877,21136,21136,Memory Management
+1883,21137,21137,Memory Management
+1889,21138,21138,Memory Management
+1895,21139,21139,Memory Management
+1904,21153,21153,Synchronization and Timing
+1910,21159,21159,I/O (File and Disk Operations)
